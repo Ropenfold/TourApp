@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the each category -->
+    <color name="category_landmarks">#fd8e09</color>
+    <color name="category_parks">#129626</color>
+    <color name="category_eating">#0b0ec1</color>
+    <color name="category_museums">#c2671c</color>
+    <color name="category_stadium_theatres">#f70c10</color>
+</resources>
